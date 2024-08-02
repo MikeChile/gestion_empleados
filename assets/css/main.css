@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://wallpaper.forfun.com/fetch/50/50ea257f8552a4bb02bf47363b9f46aa.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#box{
+    background-color: rgba(243, 245, 247, 0.914);
+    border-radius: 5px;    
+}
+
+footer{
+   color:white;
+   font-weight: 700;
+   font-size: 25px;
+}
